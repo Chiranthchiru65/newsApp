@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins;
+  /* background: rgb(44, 48, 53, 1); */
+}
+/* 
+.container {
+  width: 100vw;
+  height: 100vh;
+  /* background: black; */
+.container {
+  margin-top: 100px;
+}
+.progress {
+  display: flex;
+}
